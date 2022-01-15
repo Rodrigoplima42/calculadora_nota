@@ -1,0 +1,2 @@
+# calculadora_nota
+PROGRAMA SIMPLES EM PYTHON USANDO IF ELSE
